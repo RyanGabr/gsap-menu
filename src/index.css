@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Mango";
+    src: url("./assets/fonts/MangoGrotesque-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Mango";
+    src: url("./assets/fonts/MangoGrotesque-ExtraBold.woff2") format("woff2");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: "Manrope", sans-serif;
+}
+
+.font-mango {
+    font-family: "Mango";
+}
+
+.font-mono {
+    font-family: "JetBrains Mono";
+}
