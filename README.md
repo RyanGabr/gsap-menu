@@ -6,7 +6,9 @@ O objetivo principal foi aplicar conceitos de timelines e easing para criar uma 
 
 ## Demonstração
 
-[Em breve irei adicionar um vídeo mostrando como o menu funciona]
+<video src="https://github.com/user-attachments/assets/6878cfed-e801-4e12-94bd-9d3c392c90fe" width="100%" autoplay loop muted playsinline>
+    Seu navegador não suporta o elemento de vídeo.
+  </video>
 
 ## Como utilizar e rodar localmente
 
